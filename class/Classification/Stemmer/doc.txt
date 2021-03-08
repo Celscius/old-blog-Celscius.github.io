@@ -1,0 +1,5 @@
+Stemming adalah proses mengubah kata berimbuhan menjadi kata dasar. 
+Contohnya:
+
+menahan => tahan
+berbalas-balasan => balas

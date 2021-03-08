@@ -1,0 +1,20 @@
+SENTIMENT ANALYSIS USING RANDOM FOREST ALGORITHMONLINE SOCIAL MEDIA BASED
+Bahrawi 2019/12
+
+DataSet 
+dataset yang digunakan dalam penelitian ini diambil dari situs kagle.com
+dengan cc BY-NC-SA 4.0 lisensi. awalnya data ini diambil oleh crowdflower 
+pada bulan february kemarin dan termasuk cuitan tentang 6 major angkatan 
+udara.
+
+Preprocessing
+preproses merupakan tahapan yang penting dalam melakukan tahapan analisis
+sentimen, model klasifikasi yang dibuat akan lebih akurat. tahap preproses
+juga digunakan 
+-case folding
+-tokenizing
+-stemming
+
+Tf idf
+
+Random Forest algorithm
