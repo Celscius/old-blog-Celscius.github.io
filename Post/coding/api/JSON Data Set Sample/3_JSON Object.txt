@@ -1,0 +1,5 @@
+If the JSON data describes an object:
+{
+	color: "red",
+	value: "#f00"
+}

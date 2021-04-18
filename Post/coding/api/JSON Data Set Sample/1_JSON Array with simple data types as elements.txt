@@ -1,0 +1,2 @@
+If the JSON data describes an array, and each element of that array is of a basic type (number, string, boolean, or null):
+[ 100, 500, 300, 200, 400 ]

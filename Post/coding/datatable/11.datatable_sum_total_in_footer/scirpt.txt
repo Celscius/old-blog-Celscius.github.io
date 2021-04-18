@@ -1,0 +1,2 @@
+ var active = $('#example').DataTable().column(4).data().sum();
+        $('#alat').html('0');

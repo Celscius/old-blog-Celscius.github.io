@@ -1,0 +1,20 @@
+Example 6
+Some JSON formats use nested structures to simply group data together. An example of this would be the "image" and "thumbnail" properties in the following example:
+
+{
+	"id": "0001",
+	"type": "donut",
+	"name": "Cake",
+	"image":
+		{
+			"url": "images/0001.jpg",
+			"width": 200,
+			"height": 200
+		},
+	"thumbnail":
+		{
+			"url": "images/thumbnails/0001.jpg",
+			"width": 32,
+			"height": 32
+		}
+}

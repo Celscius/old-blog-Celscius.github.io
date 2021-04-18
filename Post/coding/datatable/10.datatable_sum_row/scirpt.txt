@@ -1,0 +1,121 @@
+$(document).ready(function () {
+    // the first two numbers are randomly generated the third is the
+      // the results of the two
+    $.each(dataSet, function (i, it) {
+        it.firstNumber = Math.floor((Math.random() * 100) + 1);
+        it.secondNumber = Math.floor((Math.random() * 100) + 1);
+        it.rowTotal = it.firstNumber * it.secondNumber;
+    });
+
+
+    // Table definition
+    var dtapi = $('#example').DataTable({
+        data: dataSet,
+        pageLength: 3,
+        "deferRender": false,
+        "footerCallback": function (tfoot, data, start, end, display) {
+            var api = this.api();
+            var p = api.column(4).data().reduce(function (a, b) {
+                return a + b;
+            }, 0)
+            $(api.column(4).footer()).html(p);
+            $("#total").val(p);
+        },
+        "order": [1],
+        "columns": [
+
+            // rest of the columns
+            { data: "first_name" },
+            { data: "last_name" },
+            { data: "firstNumber" },
+            {
+                data: "secondNumber", render: function (data) {
+                    return '<input type="text" style="width:50px" value="' + data + '">';
+                }
+            },
+            { data: "rowTotal" }
+
+        ]
+    });
+
+    // this keeps the row total value current
+    dtapi.on("change", "input[type='text']", function (evtObj) {
+        var num = parseInt(this.value)
+        var rowData = dtapi.rows($(this).closest("tr")).data()[0];
+        rowData.secondNumber = num;
+        rowData.rowTotal = num * rowData.firstNumber;
+        dtapi.rows($(this).closest("tr")).invalidate().draw();
+        dtapi.data().sum();
+    })
+
+});
+
+        // DataTable data set used
+        var dataSet = [
+        {
+            "first_name": "Airi",
+            "last_name": "Satou",
+            "position": "Accountant",
+            "office": "Tokyo",
+            "start_date": "28th Nov 08",
+            "salary": "$162,700"
+        },
+        {
+            "first_name": "Angelica",
+            "last_name": "Ramos",
+            "position": "Chief Executive Officer (CEO)",
+            "office": "London",
+            "start_date": "9th Oct 09",
+            "salary": "$1,200,000"
+        },
+        {
+            "first_name": "Ashton",
+            "last_name": "Cox",
+            "position": "Junior Technical Author",
+            "office": "San Francisco",
+            "start_date": "12th Jan 09",
+            "salary": "$86,000"
+        },
+        {
+            "first_name": "Bradley",
+            "last_name": "Greer",
+            "position": "Software Engineer",
+            "office": "London",
+            "start_date": "13th Oct 12",
+            "salary": "$132,000"
+        },
+        {
+            "first_name": "Brenden",
+            "last_name": "Wagner",
+            "position": "Software Engineer",
+            "office": "San Francisco",
+            "start_date": "7th Jun 11",
+            "salary": "$206,850"
+        },
+        {
+            "first_name": "Brielle",
+            "last_name": "Williamson",
+            "position": "Integration Specialist",
+            "office": "New York",
+            "start_date": "2nd Dec 12",
+            "salary": "$372,000"
+        },
+        {
+            "first_name": "Bruno",
+            "last_name": "Nash",
+            "position": "Software Engineer",
+            "office": "London",
+            "start_date": "3rd May 11",
+            "salary": "$163,500"
+        },
+        {
+            "first_name": "Caesar",
+            "last_name": "Vance",
+            "position": "Pre-Sales Support",
+            "office": "New York",
+            "start_date": "12th Dec 11",
+            "salary": "$106,450"
+        },
+        {
+            "first_name": "Cara",
+            "last_name": "Stevens",

@@ -1,0 +1,11 @@
+<ol>
+  <li>List item 1</li>
+  <li>List item 2</li>
+  <li>List item 3</li>
+</ol>
+
+$("#btn2").click(function(){
+    $("ol").append("<li>Appended item</li>");
+  });
+
+<button id="btn2">Append list items</button>

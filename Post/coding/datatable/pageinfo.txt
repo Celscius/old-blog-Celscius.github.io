@@ -1,0 +1,5 @@
+"initComplete": function(settings, json){ 
+            var info = this.api().page.info();
+            alert(info.recordsTotal);
+            console.log('Total records', info.recordsTotal);
+        },

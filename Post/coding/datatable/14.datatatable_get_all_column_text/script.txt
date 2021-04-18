@@ -1,0 +1,10 @@
+ $( '*' ).each(function( index ) {
+   $(this).append(' ');
+});
+ 
+var theText = $('td:nth-child(5)').text();
+  $('#foot').html(theText);
+
+var theText = $('td:eq(3)').text();
+        $('#foot').html(theText);
+
