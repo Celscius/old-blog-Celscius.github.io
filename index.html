@@ -16,7 +16,7 @@
 
 </html> 
 <script >
-$(document).ready(function() {
+
 	$('body').IncipitInit({
 	backgroundColor : "#ECF0F1",
   icon : "solid-snake",
@@ -30,7 +30,8 @@ $(document).ready(function() {
   setTimeout(function(){
     $.Incipit('hide');
   }, 3000);
+   $('#content').load('Custom.html');
 });
-    $('#content').load('Custom.html');
-});
+   
+
 </script>
