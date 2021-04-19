@@ -5,6 +5,20 @@
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
    <script >
 $(document).ready(function() {
+	$('body').IncipitInit({
+	backgroundColor : "#ECF0F1",
+  icon : "solid-snake",
+  note : true,
+  noteCustom: "See, this is a simple demonstration.",
+  logo : true,
+  logoSrc : 'https://www.jqueryscript.net/images/logo.png'
+});
+$(document).ready(function() {
+  $.Incipit('show');
+  setTimeout(function(){
+    $.Incipit('hide');
+  }, 3000);
+});
     $('#content').load('Custom.html');
 });
 </script>
@@ -15,4 +29,6 @@ $(document).ready(function() {
 
 </body>
 
-</html>
+</html><script>
+
+</script>
