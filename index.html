@@ -3,8 +3,6 @@
 
 <head>
   <link href="src/css/incipit.css" rel="stylesheet" type="text/css">
-  <script src="src/js/incipit.js"></script>
-  
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   
 </head>
@@ -16,9 +14,10 @@
 </body>
 
 </html> 
-<script>
-$('body').IncipitInit({
-	backgroundColor : "#ECF0F1",
+<script src="src/js/incipit.js"></script>
+<script >
+  $('body').IncipitInit({
+  backgroundColor : "#ECF0F1",
   icon : "solid-snake",
   note : true,
   noteCustom: "See, this is a simple demonstration.",
@@ -26,9 +25,13 @@ $('body').IncipitInit({
   logoSrc : 'https://www.jqueryscript.net/images/logo.png'
 });
 $(document).ready(function() {
+   
   $.Incipit('show');
   setTimeout(function(){
     $.Incipit('hide');
   }, 3000);
+   $('#content').load('Custom.html');
 });
+   
+
 </script>
