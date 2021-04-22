@@ -1,0 +1,3 @@
+access cell = table.cell( this ).data()+' = '
+Column number = table.column( $(this).closest('td') ).index()
+Row Number = table.row( $(this).closest('tr') ).index()

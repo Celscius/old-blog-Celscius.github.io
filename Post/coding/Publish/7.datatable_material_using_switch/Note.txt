@@ -1,0 +1,7 @@
+<div class="togglebutton">
+  <label>
+    <input type="checkbox" checked="">
+      <span class="toggle"></span>
+      Toggle is on
+  </label>
+</div>
