@@ -1,0 +1,3019 @@
+{
+    "status": [
+        {
+            "id": 1,
+            "tangki_air": "91 %",
+            "tangki_nutrisi": "0. %",
+            "last_updated": "5 months ago",
+            "bb_air": 0,
+            "bb_nutrisi": 0,
+            "ba_air": 400000,
+            "ba_nutrisi": 400000,
+            "tangki_nutrisi_a": "penuh",
+            "tangki_nutrisi_b": "penuh",
+            "tangki_nutrisi_c": "penuh"
+        }
+    ],
+    "log": [
+        {
+            "id": 839,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:29:12.000000Z"
+        },
+        {
+            "id": 838,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:28:11.000000Z"
+        },
+        {
+            "id": 837,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:27:09.000000Z"
+        },
+        {
+            "id": 836,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:26:04.000000Z"
+        },
+        {
+            "id": 835,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:25:03.000000Z"
+        },
+        {
+            "id": 834,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:24:00.000000Z"
+        },
+        {
+            "id": 833,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:22:57.000000Z"
+        },
+        {
+            "id": 832,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:21:56.000000Z"
+        },
+        {
+            "id": 831,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:20:55.000000Z"
+        },
+        {
+            "id": 830,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:19:52.000000Z"
+        },
+        {
+            "id": 829,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:18:48.000000Z"
+        },
+        {
+            "id": 828,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:17:45.000000Z"
+        },
+        {
+            "id": 827,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:16:44.000000Z"
+        },
+        {
+            "id": 826,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:15:42.000000Z"
+        },
+        {
+            "id": 825,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:14:40.000000Z"
+        },
+        {
+            "id": 824,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:13:35.000000Z"
+        },
+        {
+            "id": 823,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:12:30.000000Z"
+        },
+        {
+            "id": 822,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:11:28.000000Z"
+        },
+        {
+            "id": 821,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:10:26.000000Z"
+        },
+        {
+            "id": 820,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:09:24.000000Z"
+        },
+        {
+            "id": 819,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:08:22.000000Z"
+        },
+        {
+            "id": 818,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:07:20.000000Z"
+        },
+        {
+            "id": 817,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:06:19.000000Z"
+        },
+        {
+            "id": 816,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:05:17.000000Z"
+        },
+        {
+            "id": 815,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:04:16.000000Z"
+        },
+        {
+            "id": 814,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:03:14.000000Z"
+        },
+        {
+            "id": 813,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:02:12.000000Z"
+        },
+        {
+            "id": 812,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:01:08.000000Z"
+        },
+        {
+            "id": 811,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T06:00:07.000000Z"
+        },
+        {
+            "id": 810,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:59:04.000000Z"
+        },
+        {
+            "id": 809,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:58:02.000000Z"
+        },
+        {
+            "id": 808,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:57:01.000000Z"
+        },
+        {
+            "id": 807,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:55:59.000000Z"
+        },
+        {
+            "id": 806,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:54:58.000000Z"
+        },
+        {
+            "id": 805,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:53:56.000000Z"
+        },
+        {
+            "id": 804,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:52:53.000000Z"
+        },
+        {
+            "id": 803,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:51:52.000000Z"
+        },
+        {
+            "id": 802,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:50:49.000000Z"
+        },
+        {
+            "id": 801,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:49:45.000000Z"
+        },
+        {
+            "id": 800,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:48:42.000000Z"
+        },
+        {
+            "id": 799,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:47:38.000000Z"
+        },
+        {
+            "id": 798,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:46:36.000000Z"
+        },
+        {
+            "id": 797,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:45:33.000000Z"
+        },
+        {
+            "id": 796,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:44:30.000000Z"
+        },
+        {
+            "id": 795,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:43:26.000000Z"
+        },
+        {
+            "id": 794,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:42:24.000000Z"
+        },
+        {
+            "id": 793,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:41:22.000000Z"
+        },
+        {
+            "id": 792,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:40:19.000000Z"
+        },
+        {
+            "id": 791,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:39:16.000000Z"
+        },
+        {
+            "id": 790,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:38:14.000000Z"
+        },
+        {
+            "id": 789,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:37:12.000000Z"
+        },
+        {
+            "id": 788,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:36:11.000000Z"
+        },
+        {
+            "id": 787,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:35:08.000000Z"
+        },
+        {
+            "id": 786,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:34:06.000000Z"
+        },
+        {
+            "id": 785,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:33:02.000000Z"
+        },
+        {
+            "id": 784,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:32:01.000000Z"
+        },
+        {
+            "id": 783,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:17:19.000000Z"
+        },
+        {
+            "id": 782,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:16:17.000000Z"
+        },
+        {
+            "id": 781,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:15:16.000000Z"
+        },
+        {
+            "id": 780,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:14:13.000000Z"
+        },
+        {
+            "id": 779,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:13:10.000000Z"
+        },
+        {
+            "id": 778,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:12:09.000000Z"
+        },
+        {
+            "id": 777,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:11:07.000000Z"
+        },
+        {
+            "id": 776,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:10:04.000000Z"
+        },
+        {
+            "id": 775,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:09:02.000000Z"
+        },
+        {
+            "id": 774,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:08:01.000000Z"
+        },
+        {
+            "id": 773,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:06:58.000000Z"
+        },
+        {
+            "id": 772,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:05:56.000000Z"
+        },
+        {
+            "id": 771,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:04:54.000000Z"
+        },
+        {
+            "id": 770,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:03:52.000000Z"
+        },
+        {
+            "id": 769,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:02:49.000000Z"
+        },
+        {
+            "id": 768,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:01:47.000000Z"
+        },
+        {
+            "id": 767,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T05:00:46.000000Z"
+        },
+        {
+            "id": 766,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:59:44.000000Z"
+        },
+        {
+            "id": 765,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:58:42.000000Z"
+        },
+        {
+            "id": 764,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:57:39.000000Z"
+        },
+        {
+            "id": 763,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:56:37.000000Z"
+        },
+        {
+            "id": 762,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:55:36.000000Z"
+        },
+        {
+            "id": 761,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:54:33.000000Z"
+        },
+        {
+            "id": 760,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:53:31.000000Z"
+        },
+        {
+            "id": 759,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:52:30.000000Z"
+        },
+        {
+            "id": 758,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:51:26.000000Z"
+        },
+        {
+            "id": 757,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:50:23.000000Z"
+        },
+        {
+            "id": 756,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:49:22.000000Z"
+        },
+        {
+            "id": 755,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:48:19.000000Z"
+        },
+        {
+            "id": 754,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:47:18.000000Z"
+        },
+        {
+            "id": 753,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:46:15.000000Z"
+        },
+        {
+            "id": 752,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:45:14.000000Z"
+        },
+        {
+            "id": 751,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:44:13.000000Z"
+        },
+        {
+            "id": 750,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:43:10.000000Z"
+        },
+        {
+            "id": 749,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:42:08.000000Z"
+        },
+        {
+            "id": 748,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:41:05.000000Z"
+        },
+        {
+            "id": 747,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:40:02.000000Z"
+        },
+        {
+            "id": 746,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:38:59.000000Z"
+        },
+        {
+            "id": 745,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:37:56.000000Z"
+        },
+        {
+            "id": 744,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:36:53.000000Z"
+        },
+        {
+            "id": 743,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:35:52.000000Z"
+        },
+        {
+            "id": 742,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:34:49.000000Z"
+        },
+        {
+            "id": 741,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:33:46.000000Z"
+        },
+        {
+            "id": 740,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:32:43.000000Z"
+        },
+        {
+            "id": 739,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:31:42.000000Z"
+        },
+        {
+            "id": 738,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:30:37.000000Z"
+        },
+        {
+            "id": 737,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:29:34.000000Z"
+        },
+        {
+            "id": 736,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:28:31.000000Z"
+        },
+        {
+            "id": 735,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:27:30.000000Z"
+        },
+        {
+            "id": 734,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:26:29.000000Z"
+        },
+        {
+            "id": 733,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:25:27.000000Z"
+        },
+        {
+            "id": 732,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:24:25.000000Z"
+        },
+        {
+            "id": 731,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:23:24.000000Z"
+        },
+        {
+            "id": 730,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:22:19.000000Z"
+        },
+        {
+            "id": 729,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:21:17.000000Z"
+        },
+        {
+            "id": 728,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:20:14.000000Z"
+        },
+        {
+            "id": 727,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:19:12.000000Z"
+        },
+        {
+            "id": 726,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:18:09.000000Z"
+        },
+        {
+            "id": 725,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:17:08.000000Z"
+        },
+        {
+            "id": 724,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:16:07.000000Z"
+        },
+        {
+            "id": 723,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:15:06.000000Z"
+        },
+        {
+            "id": 722,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:14:05.000000Z"
+        },
+        {
+            "id": 721,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:13:01.000000Z"
+        },
+        {
+            "id": 720,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:11:59.000000Z"
+        },
+        {
+            "id": 719,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:10:57.000000Z"
+        },
+        {
+            "id": 718,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:09:55.000000Z"
+        },
+        {
+            "id": 717,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:08:50.000000Z"
+        },
+        {
+            "id": 716,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:07:48.000000Z"
+        },
+        {
+            "id": 715,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:06:44.000000Z"
+        },
+        {
+            "id": 714,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:05:42.000000Z"
+        },
+        {
+            "id": 713,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:04:40.000000Z"
+        },
+        {
+            "id": 712,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:03:35.000000Z"
+        },
+        {
+            "id": 711,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:02:32.000000Z"
+        },
+        {
+            "id": 710,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:01:27.000000Z"
+        },
+        {
+            "id": 709,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T04:00:24.000000Z"
+        },
+        {
+            "id": 708,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:59:21.000000Z"
+        },
+        {
+            "id": 707,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:58:16.000000Z"
+        },
+        {
+            "id": 706,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:57:15.000000Z"
+        },
+        {
+            "id": 705,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:56:14.000000Z"
+        },
+        {
+            "id": 704,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:55:09.000000Z"
+        },
+        {
+            "id": 703,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:54:04.000000Z"
+        },
+        {
+            "id": 702,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:53:01.000000Z"
+        },
+        {
+            "id": 701,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:52:00.000000Z"
+        },
+        {
+            "id": 700,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:50:58.000000Z"
+        },
+        {
+            "id": 699,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:49:54.000000Z"
+        },
+        {
+            "id": 698,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:48:51.000000Z"
+        },
+        {
+            "id": 697,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:47:50.000000Z"
+        },
+        {
+            "id": 696,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:46:48.000000Z"
+        },
+        {
+            "id": 695,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:45:44.000000Z"
+        },
+        {
+            "id": 694,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:44:41.000000Z"
+        },
+        {
+            "id": 693,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:43:40.000000Z"
+        },
+        {
+            "id": 692,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:42:36.000000Z"
+        },
+        {
+            "id": 691,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:41:34.000000Z"
+        },
+        {
+            "id": 690,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:40:30.000000Z"
+        },
+        {
+            "id": 689,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:39:25.000000Z"
+        },
+        {
+            "id": 688,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:38:23.000000Z"
+        },
+        {
+            "id": 687,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:37:22.000000Z"
+        },
+        {
+            "id": 686,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:36:19.000000Z"
+        },
+        {
+            "id": 685,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:35:17.000000Z"
+        },
+        {
+            "id": 684,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:34:14.000000Z"
+        },
+        {
+            "id": 683,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:33:13.000000Z"
+        },
+        {
+            "id": 682,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:32:11.000000Z"
+        },
+        {
+            "id": 681,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:31:08.000000Z"
+        },
+        {
+            "id": 680,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:30:07.000000Z"
+        },
+        {
+            "id": 679,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:29:06.000000Z"
+        },
+        {
+            "id": 678,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:28:03.000000Z"
+        },
+        {
+            "id": 677,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:27:02.000000Z"
+        },
+        {
+            "id": 676,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:25:58.000000Z"
+        },
+        {
+            "id": 675,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:24:56.000000Z"
+        },
+        {
+            "id": 674,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:23:54.000000Z"
+        },
+        {
+            "id": 673,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:22:50.000000Z"
+        },
+        {
+            "id": 672,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:21:47.000000Z"
+        },
+        {
+            "id": 671,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:20:46.000000Z"
+        },
+        {
+            "id": 670,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:19:44.000000Z"
+        },
+        {
+            "id": 669,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:18:42.000000Z"
+        },
+        {
+            "id": 668,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:17:38.000000Z"
+        },
+        {
+            "id": 667,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:16:35.000000Z"
+        },
+        {
+            "id": 666,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:15:33.000000Z"
+        },
+        {
+            "id": 665,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:14:30.000000Z"
+        },
+        {
+            "id": 664,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:13:29.000000Z"
+        },
+        {
+            "id": 663,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:12:26.000000Z"
+        },
+        {
+            "id": 662,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:11:23.000000Z"
+        },
+        {
+            "id": 661,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:10:21.000000Z"
+        },
+        {
+            "id": 660,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:09:19.000000Z"
+        },
+        {
+            "id": 659,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:08:14.000000Z"
+        },
+        {
+            "id": 658,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:07:11.000000Z"
+        },
+        {
+            "id": 657,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:06:07.000000Z"
+        },
+        {
+            "id": 656,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:05:02.000000Z"
+        },
+        {
+            "id": 655,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:04:01.000000Z"
+        },
+        {
+            "id": 654,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:02:56.000000Z"
+        },
+        {
+            "id": 653,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:01:52.000000Z"
+        },
+        {
+            "id": 652,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T03:00:49.000000Z"
+        },
+        {
+            "id": 651,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:59:47.000000Z"
+        },
+        {
+            "id": 650,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:58:43.000000Z"
+        },
+        {
+            "id": 649,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:57:41.000000Z"
+        },
+        {
+            "id": 648,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:56:40.000000Z"
+        },
+        {
+            "id": 647,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:53:50.000000Z"
+        },
+        {
+            "id": 646,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:52:47.000000Z"
+        },
+        {
+            "id": 645,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:51:45.000000Z"
+        },
+        {
+            "id": 644,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:50:43.000000Z"
+        },
+        {
+            "id": 643,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:49:40.000000Z"
+        },
+        {
+            "id": 642,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:48:38.000000Z"
+        },
+        {
+            "id": 641,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:47:34.000000Z"
+        },
+        {
+            "id": 640,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:46:31.000000Z"
+        },
+        {
+            "id": 639,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:45:27.000000Z"
+        },
+        {
+            "id": 638,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:44:25.000000Z"
+        },
+        {
+            "id": 637,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:43:24.000000Z"
+        },
+        {
+            "id": 636,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:42:20.000000Z"
+        },
+        {
+            "id": 635,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:41:15.000000Z"
+        },
+        {
+            "id": 634,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:40:11.000000Z"
+        },
+        {
+            "id": 633,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:39:08.000000Z"
+        },
+        {
+            "id": 632,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:38:05.000000Z"
+        },
+        {
+            "id": 631,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:37:03.000000Z"
+        },
+        {
+            "id": 630,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:36:01.000000Z"
+        },
+        {
+            "id": 629,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:35:00.000000Z"
+        },
+        {
+            "id": 628,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:33:56.000000Z"
+        },
+        {
+            "id": 627,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:32:53.000000Z"
+        },
+        {
+            "id": 626,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:31:48.000000Z"
+        },
+        {
+            "id": 625,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:30:44.000000Z"
+        },
+        {
+            "id": 624,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:29:42.000000Z"
+        },
+        {
+            "id": 623,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:28:41.000000Z"
+        },
+        {
+            "id": 622,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:27:39.000000Z"
+        },
+        {
+            "id": 621,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:26:35.000000Z"
+        },
+        {
+            "id": 620,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:25:32.000000Z"
+        },
+        {
+            "id": 619,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:24:28.000000Z"
+        },
+        {
+            "id": 618,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:23:25.000000Z"
+        },
+        {
+            "id": 617,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:21:55.000000Z"
+        },
+        {
+            "id": 616,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:16:19.000000Z"
+        },
+        {
+            "id": 615,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:15:17.000000Z"
+        },
+        {
+            "id": 614,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:14:14.000000Z"
+        },
+        {
+            "id": 613,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:13:12.000000Z"
+        },
+        {
+            "id": 612,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:12:08.000000Z"
+        },
+        {
+            "id": 611,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:11:07.000000Z"
+        },
+        {
+            "id": 610,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:10:06.000000Z"
+        },
+        {
+            "id": 609,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:09:04.000000Z"
+        },
+        {
+            "id": 608,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:08:00.000000Z"
+        },
+        {
+            "id": 607,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:06:58.000000Z"
+        },
+        {
+            "id": 606,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:05:55.000000Z"
+        },
+        {
+            "id": 605,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:04:52.000000Z"
+        },
+        {
+            "id": 604,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:03:44.000000Z"
+        },
+        {
+            "id": 603,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:02:39.000000Z"
+        },
+        {
+            "id": 602,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T02:01:11.000000Z"
+        },
+        {
+            "id": 601,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T01:59:42.000000Z"
+        },
+        {
+            "id": 600,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T01:58:13.000000Z"
+        },
+        {
+            "id": 599,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T01:44:46.000000Z"
+        },
+        {
+            "id": 598,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T01:43:19.000000Z"
+        },
+        {
+            "id": 597,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T01:42:18.000000Z"
+        },
+        {
+            "id": 596,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T01:40:33.000000Z"
+        },
+        {
+            "id": 595,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T01:38:40.000000Z"
+        },
+        {
+            "id": 594,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T01:37:12.000000Z"
+        },
+        {
+            "id": 593,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T01:36:06.000000Z"
+        },
+        {
+            "id": 592,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-07T01:34:38.000000Z"
+        },
+        {
+            "id": 591,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:36:41.000000Z"
+        },
+        {
+            "id": 590,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:35:13.000000Z"
+        },
+        {
+            "id": 589,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:34:07.000000Z"
+        },
+        {
+            "id": 588,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:33:01.000000Z"
+        },
+        {
+            "id": 587,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:31:55.000000Z"
+        },
+        {
+            "id": 586,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:30:49.000000Z"
+        },
+        {
+            "id": 585,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:29:44.000000Z"
+        },
+        {
+            "id": 584,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:28:38.000000Z"
+        },
+        {
+            "id": 583,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:27:10.000000Z"
+        },
+        {
+            "id": 582,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:26:04.000000Z"
+        },
+        {
+            "id": 581,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:24:58.000000Z"
+        },
+        {
+            "id": 580,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:23:32.000000Z"
+        },
+        {
+            "id": 579,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:22:27.000000Z"
+        },
+        {
+            "id": 578,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:21:19.000000Z"
+        },
+        {
+            "id": 577,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:20:14.000000Z"
+        },
+        {
+            "id": 576,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:19:06.000000Z"
+        },
+        {
+            "id": 575,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:18:00.000000Z"
+        },
+        {
+            "id": 574,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:16:53.000000Z"
+        },
+        {
+            "id": 573,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:15:25.000000Z"
+        },
+        {
+            "id": 572,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:13:58.000000Z"
+        },
+        {
+            "id": 571,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:12:52.000000Z"
+        },
+        {
+            "id": 570,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:11:47.000000Z"
+        },
+        {
+            "id": 569,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:10:40.000000Z"
+        },
+        {
+            "id": 568,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:09:30.000000Z"
+        },
+        {
+            "id": 567,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:08:17.000000Z"
+        },
+        {
+            "id": 566,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:07:11.000000Z"
+        },
+        {
+            "id": 565,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:06:03.000000Z"
+        },
+        {
+            "id": 564,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:04:58.000000Z"
+        },
+        {
+            "id": 563,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:03:52.000000Z"
+        },
+        {
+            "id": 562,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:02:46.000000Z"
+        },
+        {
+            "id": 561,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:01:38.000000Z"
+        },
+        {
+            "id": 560,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T09:00:09.000000Z"
+        },
+        {
+            "id": 559,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:59:00.000000Z"
+        },
+        {
+            "id": 558,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:57:45.000000Z"
+        },
+        {
+            "id": 557,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:56:17.000000Z"
+        },
+        {
+            "id": 556,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:55:08.000000Z"
+        },
+        {
+            "id": 555,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:54:02.000000Z"
+        },
+        {
+            "id": 554,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:52:54.000000Z"
+        },
+        {
+            "id": 553,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:51:47.000000Z"
+        },
+        {
+            "id": 552,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:50:40.000000Z"
+        },
+        {
+            "id": 551,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:49:32.000000Z"
+        },
+        {
+            "id": 550,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:48:27.000000Z"
+        },
+        {
+            "id": 549,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:47:21.000000Z"
+        },
+        {
+            "id": 548,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:46:15.000000Z"
+        },
+        {
+            "id": 547,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:45:10.000000Z"
+        },
+        {
+            "id": 546,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:44:04.000000Z"
+        },
+        {
+            "id": 545,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:42:59.000000Z"
+        },
+        {
+            "id": 544,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:41:53.000000Z"
+        },
+        {
+            "id": 543,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:40:48.000000Z"
+        },
+        {
+            "id": 542,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:39:41.000000Z"
+        },
+        {
+            "id": 541,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:38:34.000000Z"
+        },
+        {
+            "id": 540,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:37:28.000000Z"
+        },
+        {
+            "id": 539,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:36:22.000000Z"
+        },
+        {
+            "id": 538,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:35:16.000000Z"
+        },
+        {
+            "id": 537,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:34:09.000000Z"
+        },
+        {
+            "id": 536,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:33:02.000000Z"
+        },
+        {
+            "id": 535,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:31:55.000000Z"
+        },
+        {
+            "id": 534,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:30:50.000000Z"
+        },
+        {
+            "id": 533,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:29:41.000000Z"
+        },
+        {
+            "id": 532,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:28:36.000000Z"
+        },
+        {
+            "id": 531,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:27:31.000000Z"
+        },
+        {
+            "id": 530,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:26:03.000000Z"
+        },
+        {
+            "id": 529,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:24:58.000000Z"
+        },
+        {
+            "id": 528,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:23:52.000000Z"
+        },
+        {
+            "id": 527,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:22:25.000000Z"
+        },
+        {
+            "id": 526,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:21:19.000000Z"
+        },
+        {
+            "id": 525,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:20:14.000000Z"
+        },
+        {
+            "id": 524,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:19:09.000000Z"
+        },
+        {
+            "id": 523,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:18:03.000000Z"
+        },
+        {
+            "id": 522,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:16:56.000000Z"
+        },
+        {
+            "id": 521,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:15:50.000000Z"
+        },
+        {
+            "id": 520,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:14:42.000000Z"
+        },
+        {
+            "id": 519,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:13:35.000000Z"
+        },
+        {
+            "id": 518,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:12:07.000000Z"
+        },
+        {
+            "id": 517,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:11:00.000000Z"
+        },
+        {
+            "id": 516,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:09:33.000000Z"
+        },
+        {
+            "id": 515,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:08:04.000000Z"
+        },
+        {
+            "id": 514,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:06:58.000000Z"
+        },
+        {
+            "id": 513,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:05:51.000000Z"
+        },
+        {
+            "id": 512,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:04:46.000000Z"
+        },
+        {
+            "id": 511,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:03:39.000000Z"
+        },
+        {
+            "id": 510,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:02:13.000000Z"
+        },
+        {
+            "id": 509,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T08:00:47.000000Z"
+        },
+        {
+            "id": 508,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:59:41.000000Z"
+        },
+        {
+            "id": 507,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:58:14.000000Z"
+        },
+        {
+            "id": 506,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:57:04.000000Z"
+        },
+        {
+            "id": 505,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:55:36.000000Z"
+        },
+        {
+            "id": 504,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:54:30.000000Z"
+        },
+        {
+            "id": 503,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:53:03.000000Z"
+        },
+        {
+            "id": 502,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:51:57.000000Z"
+        },
+        {
+            "id": 501,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:50:43.000000Z"
+        },
+        {
+            "id": 500,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:49:35.000000Z"
+        },
+        {
+            "id": 499,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:48:27.000000Z"
+        },
+        {
+            "id": 498,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:47:00.000000Z"
+        },
+        {
+            "id": 497,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:45:53.000000Z"
+        },
+        {
+            "id": 496,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:44:26.000000Z"
+        },
+        {
+            "id": 495,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:42:58.000000Z"
+        },
+        {
+            "id": 494,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:41:52.000000Z"
+        },
+        {
+            "id": 493,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:40:42.000000Z"
+        },
+        {
+            "id": 492,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:39:34.000000Z"
+        },
+        {
+            "id": 491,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:38:27.000000Z"
+        },
+        {
+            "id": 490,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:37:22.000000Z"
+        },
+        {
+            "id": 489,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:35:55.000000Z"
+        },
+        {
+            "id": 488,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:34:49.000000Z"
+        },
+        {
+            "id": 487,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:33:42.000000Z"
+        },
+        {
+            "id": 486,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:32:35.000000Z"
+        },
+        {
+            "id": 485,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:31:29.000000Z"
+        },
+        {
+            "id": 484,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:30:23.000000Z"
+        },
+        {
+            "id": 483,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:29:16.000000Z"
+        },
+        {
+            "id": 482,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:28:10.000000Z"
+        },
+        {
+            "id": 481,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:27:03.000000Z"
+        },
+        {
+            "id": 480,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:25:56.000000Z"
+        },
+        {
+            "id": 479,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:24:50.000000Z"
+        },
+        {
+            "id": 478,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:23:44.000000Z"
+        },
+        {
+            "id": 477,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:22:37.000000Z"
+        },
+        {
+            "id": 476,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:21:32.000000Z"
+        },
+        {
+            "id": 475,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:20:26.000000Z"
+        },
+        {
+            "id": 474,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:18:59.000000Z"
+        },
+        {
+            "id": 473,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:17:52.000000Z"
+        },
+        {
+            "id": 472,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:16:46.000000Z"
+        },
+        {
+            "id": 471,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:15:39.000000Z"
+        },
+        {
+            "id": 470,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:14:34.000000Z"
+        },
+        {
+            "id": 469,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:13:27.000000Z"
+        },
+        {
+            "id": 468,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:12:19.000000Z"
+        },
+        {
+            "id": 467,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:11:14.000000Z"
+        },
+        {
+            "id": 466,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:10:08.000000Z"
+        },
+        {
+            "id": 465,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:08:40.000000Z"
+        },
+        {
+            "id": 464,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:07:33.000000Z"
+        },
+        {
+            "id": 463,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:06:25.000000Z"
+        },
+        {
+            "id": 462,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:05:18.000000Z"
+        },
+        {
+            "id": 461,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:04:11.000000Z"
+        },
+        {
+            "id": 460,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:03:04.000000Z"
+        },
+        {
+            "id": 459,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:01:57.000000Z"
+        },
+        {
+            "id": 458,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T07:00:49.000000Z"
+        },
+        {
+            "id": 457,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T06:59:41.000000Z"
+        },
+        {
+            "id": 456,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T06:58:34.000000Z"
+        },
+        {
+            "id": 455,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T06:57:25.000000Z"
+        },
+        {
+            "id": 454,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T06:56:17.000000Z"
+        },
+        {
+            "id": 453,
+            "tangki_air": "90 %",
+            "tangki_nutrisi": "90 %",
+            "created_at": "2021-05-06T06:54:49.000000Z"
+        },
+        {
+            "id": 452,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:52:07.000000Z"
+        },
+        {
+            "id": 451,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:51:00.000000Z"
+        },
+        {
+            "id": 450,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:49:53.000000Z"
+        },
+        {
+            "id": 449,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:48:48.000000Z"
+        },
+        {
+            "id": 448,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:47:42.000000Z"
+        },
+        {
+            "id": 447,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:46:37.000000Z"
+        },
+        {
+            "id": 446,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:45:30.000000Z"
+        },
+        {
+            "id": 445,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:44:23.000000Z"
+        },
+        {
+            "id": 444,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:43:17.000000Z"
+        },
+        {
+            "id": 443,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:42:10.000000Z"
+        },
+        {
+            "id": 442,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:41:05.000000Z"
+        },
+        {
+            "id": 441,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:39:58.000000Z"
+        },
+        {
+            "id": 440,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:38:51.000000Z"
+        },
+        {
+            "id": 439,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:37:45.000000Z"
+        },
+        {
+            "id": 438,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:36:40.000000Z"
+        },
+        {
+            "id": 437,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:35:33.000000Z"
+        },
+        {
+            "id": 436,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:34:04.000000Z"
+        },
+        {
+            "id": 435,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:32:59.000000Z"
+        },
+        {
+            "id": 434,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:31:31.000000Z"
+        },
+        {
+            "id": 433,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:30:24.000000Z"
+        },
+        {
+            "id": 432,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:29:19.000000Z"
+        },
+        {
+            "id": 431,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:28:12.000000Z"
+        },
+        {
+            "id": 430,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:27:07.000000Z"
+        },
+        {
+            "id": 429,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T06:25:51.000000Z"
+        },
+        {
+            "id": 428,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:54:58.000000Z"
+        },
+        {
+            "id": 427,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:53:57.000000Z"
+        },
+        {
+            "id": 426,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:52:56.000000Z"
+        },
+        {
+            "id": 425,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:51:55.000000Z"
+        },
+        {
+            "id": 424,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:50:54.000000Z"
+        },
+        {
+            "id": 423,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:49:51.000000Z"
+        },
+        {
+            "id": 422,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:48:50.000000Z"
+        },
+        {
+            "id": 421,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:47:49.000000Z"
+        },
+        {
+            "id": 420,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:46:47.000000Z"
+        },
+        {
+            "id": 419,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:45:46.000000Z"
+        },
+        {
+            "id": 418,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:44:45.000000Z"
+        },
+        {
+            "id": 417,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:43:43.000000Z"
+        },
+        {
+            "id": 416,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:42:42.000000Z"
+        },
+        {
+            "id": 415,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:41:41.000000Z"
+        },
+        {
+            "id": 414,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:40:40.000000Z"
+        },
+        {
+            "id": 413,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:39:39.000000Z"
+        },
+        {
+            "id": 412,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:38:37.000000Z"
+        },
+        {
+            "id": 411,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:37:36.000000Z"
+        },
+        {
+            "id": 410,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:36:35.000000Z"
+        },
+        {
+            "id": 409,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:35:34.000000Z"
+        },
+        {
+            "id": 408,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:34:33.000000Z"
+        },
+        {
+            "id": 407,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:33:31.000000Z"
+        },
+        {
+            "id": 406,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:32:28.000000Z"
+        },
+        {
+            "id": 405,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:31:27.000000Z"
+        },
+        {
+            "id": 404,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:30:26.000000Z"
+        },
+        {
+            "id": 403,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:29:25.000000Z"
+        },
+        {
+            "id": 402,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:28:24.000000Z"
+        },
+        {
+            "id": 401,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:27:22.000000Z"
+        },
+        {
+            "id": 400,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:26:21.000000Z"
+        },
+        {
+            "id": 399,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:25:19.000000Z"
+        },
+        {
+            "id": 398,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:24:18.000000Z"
+        },
+        {
+            "id": 397,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:23:17.000000Z"
+        },
+        {
+            "id": 396,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:22:16.000000Z"
+        },
+        {
+            "id": 395,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:21:14.000000Z"
+        },
+        {
+            "id": 394,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:20:12.000000Z"
+        },
+        {
+            "id": 393,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:19:11.000000Z"
+        },
+        {
+            "id": 392,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:18:10.000000Z"
+        },
+        {
+            "id": 391,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:17:09.000000Z"
+        },
+        {
+            "id": 390,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:16:08.000000Z"
+        },
+        {
+            "id": 389,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:15:06.000000Z"
+        },
+        {
+            "id": 388,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:14:04.000000Z"
+        },
+        {
+            "id": 387,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:13:03.000000Z"
+        },
+        {
+            "id": 386,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:12:02.000000Z"
+        },
+        {
+            "id": 385,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:11:01.000000Z"
+        },
+        {
+            "id": 384,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:10:00.000000Z"
+        },
+        {
+            "id": 383,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:08:59.000000Z"
+        },
+        {
+            "id": 382,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:07:58.000000Z"
+        },
+        {
+            "id": 381,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:06:56.000000Z"
+        },
+        {
+            "id": 380,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:05:55.000000Z"
+        },
+        {
+            "id": 379,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:04:54.000000Z"
+        },
+        {
+            "id": 378,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:03:53.000000Z"
+        },
+        {
+            "id": 377,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:02:52.000000Z"
+        },
+        {
+            "id": 376,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:01:51.000000Z"
+        },
+        {
+            "id": 375,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T05:00:49.000000Z"
+        },
+        {
+            "id": 374,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:59:48.000000Z"
+        },
+        {
+            "id": 373,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:58:46.000000Z"
+        },
+        {
+            "id": 372,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:57:45.000000Z"
+        },
+        {
+            "id": 371,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:56:44.000000Z"
+        },
+        {
+            "id": 370,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:55:43.000000Z"
+        },
+        {
+            "id": 369,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:54:42.000000Z"
+        },
+        {
+            "id": 368,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:53:41.000000Z"
+        },
+        {
+            "id": 367,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:52:40.000000Z"
+        },
+        {
+            "id": 366,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:51:39.000000Z"
+        },
+        {
+            "id": 365,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:50:38.000000Z"
+        },
+        {
+            "id": 364,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:49:37.000000Z"
+        },
+        {
+            "id": 363,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:48:36.000000Z"
+        },
+        {
+            "id": 362,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:47:34.000000Z"
+        },
+        {
+            "id": 361,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:46:33.000000Z"
+        },
+        {
+            "id": 360,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:45:32.000000Z"
+        },
+        {
+            "id": 359,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:44:31.000000Z"
+        },
+        {
+            "id": 358,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:43:30.000000Z"
+        },
+        {
+            "id": 357,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:42:29.000000Z"
+        },
+        {
+            "id": 356,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:41:27.000000Z"
+        },
+        {
+            "id": 355,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:40:26.000000Z"
+        },
+        {
+            "id": 354,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:39:25.000000Z"
+        },
+        {
+            "id": 353,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:38:24.000000Z"
+        },
+        {
+            "id": 352,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:37:23.000000Z"
+        },
+        {
+            "id": 351,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:36:22.000000Z"
+        },
+        {
+            "id": 350,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:35:21.000000Z"
+        },
+        {
+            "id": 349,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:34:19.000000Z"
+        },
+        {
+            "id": 348,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:33:17.000000Z"
+        },
+        {
+            "id": 347,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:32:16.000000Z"
+        },
+        {
+            "id": 346,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:31:15.000000Z"
+        },
+        {
+            "id": 345,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:30:14.000000Z"
+        },
+        {
+            "id": 344,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:29:13.000000Z"
+        },
+        {
+            "id": 343,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:28:12.000000Z"
+        },
+        {
+            "id": 342,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:27:11.000000Z"
+        },
+        {
+            "id": 341,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:26:10.000000Z"
+        },
+        {
+            "id": 340,
+            "tangki_air": "0 %",
+            "tangki_nutrisi": "0  %",
+            "created_at": "2021-05-06T04:25:08.000000Z"
+        }
+    ]
+}

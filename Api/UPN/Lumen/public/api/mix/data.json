@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "id_event": 2,
+            "jam_on": "20:30:00",
+            "jam_off": "00:00:00",
+            "switch": 0
+        },
+        {
+            "id_event": 3,
+            "jam_on": "10:30:00",
+            "jam_off": "00:00:00",
+            "switch": 0
+        },
+        {
+            "id_event": 5,
+            "jam_on": "15:00:00",
+            "jam_off": "00:00:00",
+            "switch": 0
+        }
+    ]
+}

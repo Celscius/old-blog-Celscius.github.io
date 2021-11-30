@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "no": 1,
+            "id": "TA",
+            "switch": 1,
+            "volume": 0,
+            "target": 25,
+            "flag": 0
+        },
+        {
+            "no": 4,
+            "id": "TAIR",
+            "switch": 0,
+            "volume": 0,
+            "target": 0,
+            "flag": 0
+        },
+        {
+            "no": 2,
+            "id": "TB",
+            "switch": 1,
+            "volume": 0,
+            "target": 25,
+            "flag": 0
+        },
+        {
+            "no": 3,
+            "id": "TC",
+            "switch": 1,
+            "volume": 0,
+            "target": 25,
+            "flag": 0
+        },
+        {
+            "no": 5,
+            "id": "TMIX",
+            "switch": 0,
+            "volume": 0,
+            "target": 0,
+            "flag": 1
+        },
+        {
+            "no": 7,
+            "id": "VFLUSH",
+            "switch": 0,
+            "volume": 0,
+            "target": 0,
+            "flag": 0
+        },
+        {
+            "no": 6,
+            "id": "VSIRAM",
+            "switch": 0,
+            "volume": 0,
+            "target": 0,
+            "flag": 0
+        }
+    ]
+}

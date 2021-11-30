@@ -1,0 +1,204 @@
+{
+    "jumlah": 19,
+    "jadwal_aktif": 19,
+    "jadwal_on": 0,
+    "total_volume": 2944,
+    "tipe": {
+        "air": 10,
+        "nutrisi": 9
+    },
+    "jadwal_terdekat_nutrisi": "2 jam 37 menit",
+    "jadwal_terdekat_air": "9 jam 7 menit",
+    "data": [
+        {
+            "no": 0,
+            "line": 0,
+            "id": 1,
+            "jadwal_jam": "11:30",
+            "volume": 200,
+            "on_off": "off",
+            "tipe": "air",
+            "aktif": "aktif"
+        },
+        {
+            "no": 1,
+            "line": 0,
+            "id": 1,
+            "jadwal_jam": "07:00",
+            "volume": 211,
+            "on_off": "off",
+            "tipe": "nutrisi",
+            "aktif": "aktif"
+        },
+        {
+            "no": 6,
+            "line": 0,
+            "id": 1,
+            "jadwal_jam": "19:00",
+            "volume": 20,
+            "on_off": "off",
+            "tipe": "air",
+            "aktif": "aktif"
+        },
+        {
+            "no": 7,
+            "line": 0,
+            "id": 2,
+            "jadwal_jam": "06:00",
+            "volume": 106,
+            "on_off": "off",
+            "tipe": "nutrisi",
+            "aktif": "aktif"
+        },
+        {
+            "no": 11,
+            "line": 0,
+            "id": 2,
+            "jadwal_jam": "11:30",
+            "volume": 200,
+            "on_off": "off",
+            "tipe": "air",
+            "aktif": "aktif"
+        },
+        {
+            "no": 12,
+            "line": 0,
+            "id": 3,
+            "jadwal_jam": "05:00",
+            "volume": 71,
+            "on_off": "off",
+            "tipe": "nutrisi",
+            "aktif": "aktif"
+        },
+        {
+            "no": 13,
+            "line": 0,
+            "id": 3,
+            "jadwal_jam": "11:30",
+            "volume": 200,
+            "on_off": "off",
+            "tipe": "air",
+            "aktif": "aktif"
+        },
+        {
+            "no": 14,
+            "line": 0,
+            "id": 4,
+            "jadwal_jam": "07:00",
+            "volume": 211,
+            "on_off": "off",
+            "tipe": "nutrisi",
+            "aktif": "aktif"
+        },
+        {
+            "no": 16,
+            "line": 0,
+            "id": 4,
+            "jadwal_jam": "11:30",
+            "volume": 200,
+            "on_off": "off",
+            "tipe": "air",
+            "aktif": "aktif"
+        },
+        {
+            "no": 17,
+            "line": 0,
+            "id": 5,
+            "jadwal_jam": "06:00",
+            "volume": 106,
+            "on_off": "off",
+            "tipe": "nutrisi",
+            "aktif": "aktif"
+        },
+        {
+            "no": 18,
+            "line": 0,
+            "id": 5,
+            "jadwal_jam": "11:30",
+            "volume": 200,
+            "on_off": "off",
+            "tipe": "air",
+            "aktif": "aktif"
+        },
+        {
+            "no": 21,
+            "line": 0,
+            "id": 6,
+            "jadwal_jam": "05:00",
+            "volume": 71,
+            "on_off": "off",
+            "tipe": "nutrisi",
+            "aktif": "aktif"
+        },
+        {
+            "no": 22,
+            "line": 0,
+            "id": 6,
+            "jadwal_jam": "11:30",
+            "volume": 200,
+            "on_off": "off",
+            "tipe": "air",
+            "aktif": "aktif"
+        },
+        {
+            "no": 23,
+            "line": 0,
+            "id": 7,
+            "jadwal_jam": "07:00",
+            "volume": 211,
+            "on_off": "off",
+            "tipe": "nutrisi",
+            "aktif": "aktif"
+        },
+        {
+            "no": 24,
+            "line": 0,
+            "id": 7,
+            "jadwal_jam": "11:30",
+            "volume": 20,
+            "on_off": "off",
+            "tipe": "air",
+            "aktif": "aktif"
+        },
+        {
+            "no": 25,
+            "line": 0,
+            "id": 8,
+            "jadwal_jam": "06:00",
+            "volume": 106,
+            "on_off": "off",
+            "tipe": "nutrisi",
+            "aktif": "aktif"
+        },
+        {
+            "no": 27,
+            "line": 0,
+            "id": 8,
+            "jadwal_jam": "11:30",
+            "volume": 200,
+            "on_off": "off",
+            "tipe": "air",
+            "aktif": "aktif"
+        },
+        {
+            "no": 28,
+            "line": 0,
+            "id": 9,
+            "jadwal_jam": "05:00",
+            "volume": 211,
+            "on_off": "off",
+            "tipe": "nutrisi",
+            "aktif": "aktif"
+        },
+        {
+            "no": 29,
+            "line": 0,
+            "id": 9,
+            "jadwal_jam": "11:30",
+            "volume": 200,
+            "on_off": "off",
+            "tipe": "air",
+            "aktif": "aktif"
+        }
+    ]
+}
