@@ -1,0 +1,52 @@
+[
+    {
+        "total_data": 1,
+        "tanggal": "2021-05-03",
+        "tangki_nutrisi_rata_rata": 100,
+        "tangki_nutrisi_max": 100,
+        "tangki_nutrisi_min": 100,
+        "tangki_air_rata_rata": 100,
+        "tangki_air_max": 100,
+        "tangki_air_min": 100
+    },
+    {
+        "total_data": 2,
+        "tanggal": "2021-05-04",
+        "tangki_nutrisi_rata_rata": 79.5,
+        "tangki_nutrisi_max": 99,
+        "tangki_nutrisi_min": 60,
+        "tangki_air_rata_rata": 88,
+        "tangki_air_max": 95,
+        "tangki_air_min": 81
+    },
+    {
+        "total_data": 167,
+        "tanggal": "2021-05-05",
+        "tangki_nutrisi_rata_rata": 49.67664670658683,
+        "tangki_nutrisi_max": 99,
+        "tangki_nutrisi_min": 0,
+        "tangki_air_rata_rata": 50.29940119760479,
+        "tangki_air_max": 100,
+        "tangki_air_min": 1
+    },
+    {
+        "total_data": 421,
+        "tanggal": "2021-05-06",
+        "tangki_nutrisi_rata_rata": 128047.81472684085,
+        "tangki_nutrisi_max": 397808,
+        "tangki_nutrisi_min": 0,
+        "tangki_air_rata_rata": 124236.22802850357,
+        "tangki_air_max": 389084,
+        "tangki_air_min": 2
+    },
+    {
+        "total_data": 248,
+        "tanggal": "2021-05-07",
+        "tangki_nutrisi_rata_rata": 387476.35080645164,
+        "tangki_nutrisi_max": 398103,
+        "tangki_nutrisi_min": 378175,
+        "tangki_air_rata_rata": 376771.70967741933,
+        "tangki_air_max": 389275,
+        "tangki_air_min": 364890
+    }
+]
