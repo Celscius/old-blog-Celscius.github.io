@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		
+	</title>
+</head>
+<body>
+	<pre id="json"></pre>
+</body>
+</html>
+<script
+  src="https://code.jquery.com/jquery-3.6.0.js"
+  integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+  crossorigin="anonymous"></script>
+<script>
+$.ajax({
+     url:"http://agri.alkaira.com/api_log_json.php",
+     contentType:"application/json; charset=utf-8",
+     dataType: 'json', // Notice! JSONP <-- P (lowercase)
+     success:function(json){
+         // do stuff with json (in this case an array)
+         alert("Success");
+     },
+     error:function(){
+         alert("Error");
+     }      
+});
+
+
+</script>

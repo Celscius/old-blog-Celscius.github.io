@@ -1,0 +1,4 @@
+$('.faq .letter-q').each(function(){
+    //this wrapped in jQuery will give us the current .letter-q div
+    $(this).append('<img src="images/faq-q.png" alt="Question">');
+});

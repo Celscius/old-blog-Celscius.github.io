@@ -1,0 +1,9 @@
+-loading
+-sidebar
+-back_home
+-post
+-author
+-another post
+-subscribe
+-footer
+-pop_up
